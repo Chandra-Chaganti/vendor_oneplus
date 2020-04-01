@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),guacamole)
+ifeq ($(TARGET_DEVICE),guacamole guacamoles)
 
 endif
